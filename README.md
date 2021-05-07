@@ -1,7 +1,3 @@
-### Hi Roman there 👋
-
----
-
 ### About me:
 - 🔭 I’m currently working on **Forex project**.
 - 🌱 I’m currently learning **Application Architecture && Machine Learning**.
