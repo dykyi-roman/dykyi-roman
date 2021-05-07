@@ -1,5 +1,6 @@
 ### About me:
-- 🔭 I’m currently working on **Forex project**.
+- 💻 I’m web/application software developer.
+- 🔭 I’m’m currently working on **Forex project**.
 - 🌱 I’m currently learning **Application Architecture && Machine Learning**.
 - 👯 I'm always open to collaborating on **Interesting projects**.
 - 📚 I'm currently interest a **JS && GO**.
