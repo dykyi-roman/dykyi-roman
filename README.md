@@ -1,15 +1,14 @@
 ### About me:
-- 💻 I’m web/application software developer.
-- 👨‍💻 I’m’m currently working on **Forex project**.
+- 💻 I’m a web/application software developer.
 - 🧘 I’m currently learning **Application Architecture && Machine Learning**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
-- 👀 I'm currently interest a **JS && GO**.
+- 👀 I'm currently interest a **GO**.
 - 📚 [PHP teacher in IT school](https://github.com/dykyi-roman/it-school/tree/master/presentation)
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and any Tech-related stuff**.
 
 ---
 
-### You can find in me in the web 🌍
+### You can find me on the web 🌍
 
 <a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
