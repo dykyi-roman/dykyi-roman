@@ -13,21 +13,23 @@
 ### How to reach out to me: 🌍
 
 <a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
-  <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/dykyi-roman">
-  <img align="left" alt="Ashwani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://medium.com/@dykyi.roman">
+  <img align="left" alt="Medium" width="22px" src="https://github.com/Medium/medium-logos/blob/master/03_Symbol/01_Black/SVG/Artboard%201.svg" />
 </a>
 <a href="https://www.instagram.com/dykyi.roman/">
-  <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/dykyi.roman/">
-  <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://t.me/NOCaut2012">
-  <img align="left" alt="Ashwani's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
 <br/>
 
 ---
