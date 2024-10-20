@@ -5,10 +5,12 @@
 - 👀 I'm currently interest a **GO**.
 - 📚 [PHP teacher in IT school](https://github.com/dykyi-roman/it-school/tree/master/presentation)
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and any Tech-related stuff**.
-
+- Publication:
+  * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
+  * [PHP Annotated – September 2023](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
 ---
 
-### You can find me on the web 🌍
+### How to reach out to me: 🌍
 
 <a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
   <img align="left" alt="Ashwani's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -19,7 +21,7 @@
 <a href="https://www.instagram.com/dykyi.roman/">
   <img align="left" alt="Ashwani's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/roman.dukuy/">
+<a href="https://www.facebook.com/dykyi.roman/">
   <img align="left" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://t.me/NOCaut2012">
