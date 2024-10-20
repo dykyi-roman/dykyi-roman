@@ -4,7 +4,10 @@
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and any Tech-related stuff**.
 - 🥸 Mentoring:
-  * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).  
+  * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).
+- Blog posts:
+  * [Medium](https://medium.com/@dykyi.roman)
+  * [Books review](https://dykyi-roman.github.io/book-review/)
 - 📚 Publication:
   * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
   * [PHP Annotated – September 2023](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
