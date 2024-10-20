@@ -2,8 +2,6 @@
 - 💻 I’m a web/application software developer.
 - 🧘 I’m currently learning **Application Architecture && Machine Learning**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
-- 👀 I'm currently interest a **GO**.
-- 📚 [PHP teacher in IT school](https://github.com/dykyi-roman/it-school/tree/master/presentation)
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and any Tech-related stuff**.
 - 🥸 Mentoring:
   * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).  
