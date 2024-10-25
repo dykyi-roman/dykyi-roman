@@ -5,7 +5,7 @@
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and any Tech-related stuff**.
 - 🥸 Mentoring:
   * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).
-- Blog posts:
+- 📑 Blog posts:
   * [Medium](https://medium.com/@dykyi.roman)
   * [Books review](https://dykyi-roman.github.io/book-review/)
 - 📚 Publication:
