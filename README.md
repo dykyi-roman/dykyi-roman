@@ -3,13 +3,13 @@
 - 🧘 I’m currently learning **Application Architecture && Machine Learning**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and any Tech-related stuff**.
-- 🥸 Teacher:
+- 🥸 Teaching:
   * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).
 - 📑 Articles:
   * [Medium](https://medium.com/@dykyi.roman)
   * [Habr](https://habr.com/ru/users/NOCaut/publications/articles/)
   * [Books review](https://dykyi-roman.github.io/book-review/)
-- 📚 Publications:
+- 📚 Published:
   * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
   * [PHP Annotated – September 2023](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
 ---
