@@ -7,6 +7,7 @@
   * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).
 - 📑 Blog posts:
   * [Medium](https://medium.com/@dykyi.roman)
+  * [Habr](https://habr.com/ru/users/NOCaut/publications/articles/)
   * [Books review](https://dykyi-roman.github.io/book-review/)
 - 📚 Publication:
   * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
