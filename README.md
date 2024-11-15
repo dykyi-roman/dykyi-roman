@@ -11,12 +11,13 @@
 - 📚 Published:
   * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
   * [PHP Annotated – September 2023](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
-- 📞 CV:
-  * [My CV for applying to a creative job](https://dykyi-roman.github.io)
 ---
 
 ### How to reach out to me: 🌍
 
+<a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
+  <img align="left" alt="Webpage" title="Webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachecordova.svg" />
+</a>
 <a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
   <img align="left" alt="Linkdein" title="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
