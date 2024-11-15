@@ -12,7 +12,7 @@
   * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
   * [PHP Annotated – September 2023](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
 - 📞 CV:
-  * [My CV for applying to a creative job](https://dykyi-roman.github.io/cv/)
+  * [My CV for applying to a creative job](https://dykyi-roman.github.io)
 ---
 
 ### How to reach out to me: 🌍
