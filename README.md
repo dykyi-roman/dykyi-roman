@@ -15,7 +15,7 @@
 
 ### How to reach out to me: 🌍
 
-<a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
+<a href="https://dykyi-roman.github.io">
   <img align="left" alt="Webpage" title="Webpage" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/apachecordova.svg" />
 </a>
 <a href="https://www.linkedin.com/in/roman-dykyi-43428543/">
