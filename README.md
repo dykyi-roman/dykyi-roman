@@ -8,6 +8,7 @@
 - 🥸 Teaching:
   * PHP Teacher in [IT school Hillel](https://ithillel.ua/). Online [presentation](https://github.com/dykyi-roman/it-school/tree/master/presentation).
 - 📑 Articles:
+  * [GitHub] (https://dykyi-roman.github.io/articles.html)
   * [Medium](https://medium.com/@dykyi.roman)
   * [Habr](https://habr.com/ru/users/dykyi_roman/publications/articles/)
 - 📚 Published:
