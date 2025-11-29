@@ -49,10 +49,4 @@
 
 ---
 
-#### How about some stats? <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-
-![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dykyi-roman&&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
----
-
 **Check the Repositories and don't forget to give a star.** 👇
