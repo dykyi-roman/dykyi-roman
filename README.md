@@ -3,7 +3,6 @@
   <h1>Hi there, I'm Roman! 👋</h1>
 </div>
 
----
 
 ### About me:
 
