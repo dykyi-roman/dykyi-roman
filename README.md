@@ -12,9 +12,9 @@
   * [Medium](https://medium.com/@dykyi.roman)
   * [Habr](https://habr.com/ru/users/dykyi_roman/publications/articles/)
 - 📚 Published:
-  * [PHP Digest – August 2025](https://t.me/phpdigest/341)
   * [PHP Digest #202 (April 2021)](https://habr.com/ru/articles/555242/)
   * [PHP Annotated – September 2023](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
+  * [PHP Digest – August 2025](https://t.me/phpdigest/341)
 ---
 
 ### How to reach out to me: 🌍
