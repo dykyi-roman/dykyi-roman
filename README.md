@@ -64,8 +64,8 @@
   <img src="https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/-Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=white" alt="Jaeger" />
   <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK" />
+  <img src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic" />
 </p>
 
 **☁️ Infrastructure & Databases**
@@ -97,9 +97,6 @@
 
 </div>
 
----
-
-### 📑 Latest Articles
 ---
 
 ### 📈 GitHub Stats
