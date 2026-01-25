@@ -7,7 +7,7 @@
 ### About me:
 
 - 🔭 I’m a **Tactical Agenter coder** & web/application software developer.
-- 🧘 I’m currently learning **Application Architecture (DDD, CQRS) && Machine Learning (Python)**.
+- 🧘 I’m currently learning **Application Architecture (DDD, CQRS)**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and Tech-related stuff**.
 - 🌎 Website: [dykyi-roman.github.io](https://dykyi-roman.github.io/)
