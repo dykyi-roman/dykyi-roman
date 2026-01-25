@@ -32,18 +32,24 @@
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="Delphi" src="https://img.shields.io/badge/delphi-%23000000.svg?style=for-the-badge&logo=Delphi&logoColor=white"/>
 
-<br/>**Architecture & Concepts**<br/>
-<img src="https://img.shields.io/badge/DDD-Domain%20Driven%20Design-orange?style=flat-square" alt="DDD" />
-<img src="https://img.shields.io/badge/CQRS-Pattern-blue?style=flat-square" alt="CQRS" />
-<img src="https://img.shields.io/badge/SOLID-Principles-green?style=flat-square" alt="SOLID" />
-<img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=flat-square" alt="Microservices" />
+**🏗 Architecture & Design**
+<p>
+  <img src="https://img.shields.io/badge/-DDD-orange?style=flat-square" alt="DDD" />
+  <img src="https://img.shields.io/badge/-CQRS-blue?style=flat-square" alt="CQRS" />
+  <img src="https://img.shields.io/badge/-Event_Sourcing-lightgrey?style=flat-square" alt="Event Sourcing" />
+  <img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=flat-square" alt="Microservices" />
+  <img src="https://img.shields.io/badge/-Unit_Testing-brightgreen?style=flat-square" alt="Testing" />
+</p>
 
-<br/>**Infrastructure & Databases**<br/>
-<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white" alt="K8s" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+<br/>
+**☁️ Infrastructure & Databases**
+<p>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
 
 </div>
 
