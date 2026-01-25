@@ -76,7 +76,7 @@
 <a href="https://medium.com/@dykyi.roman">
   <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://t.me/NOCaut2012">
+<a href="https://t.me/dykyi_roman">
   <img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/dykyi.roman/">
