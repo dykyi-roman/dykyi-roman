@@ -95,7 +95,6 @@
   <img src="https://img.shields.io/badge/-Tech_Lead-2C3E50?style=for-the-badge" alt="Tech Lead" />
   <img src="https://img.shields.io/badge/-Mentoring-27AE60?style=for-the-badge" alt="Mentoring" />
   <img src="https://img.shields.io/badge/-Code_Review-8E44AD?style=for-the-badge" alt="Code Review" />
-  <img src="https://img.shields.io/badge/-ADR-E67E22?style=for-the-badge" alt="ADR" />
   <img src="https://img.shields.io/badge/-Technical_Writing-3498DB?style=for-the-badge" alt="Technical Writing" />
 </p>
 
