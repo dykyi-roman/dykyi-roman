@@ -4,7 +4,7 @@
   
   <!-- Пункт 1: Elevator pitch -->
   <p>
-    I design and build scalable backend systems using DDD, CQRS, and microservices architecture.<br/>
+    I design and build scalable backend systems using DDD, CQRS, EDA, ES, Clean, Layer, Hexagonal, and microservices architecture.<br/>
     Passionate about clean architecture and clean code, teaching, and sharing knowledge through articles and open-source projects.
   </p>
 </div>
@@ -16,7 +16,7 @@
 - 🔭 I'm a **Software Architect** & web/application developer with focus on PHP and Go.
 - 🧘 I'm currently learning **Application Architecture**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
-- 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and Tech-related stuff**.
+- 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and Tech-related stuff**. 
 - 🌎 Website: [dykyi-roman.github.io](https://dykyi-roman.github.io/)
 
 ### Teaching & Public Activity:
