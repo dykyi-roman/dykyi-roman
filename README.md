@@ -1,13 +1,20 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&background=00000000&center=true&vCenter=true&width=435&lines=Tactical+Agenter+Coder;Software+Architect;Web+%2F+App+Developer;Educator" alt="Typing SVG" />
   <h1>Hi there, I'm Roman! 👋</h1>
+  <p><strong>Software Architect • PHP Expert • Educator</strong></p>
+  
+  <!-- Пункт 1: Elevator pitch -->
+  <p>
+    I design and build scalable backend systems using DDD, CQRS, and microservices architecture.<br/>
+    Passionate about clean code, teaching, and sharing knowledge through articles and open-source projects.
+  </p>
 </div>
 
+---
 
 ### About me:
 
-- 🔭 I'm a **Tactical Agenter coder** & web/application software developer.
-- 🧘 I'm currently learning **Application Architecture (DDD, CQRS)**.
+- 🔭 I'm a **Software Architect** & web/application developer with focus on PHP and Go.
+- 🧘 I'm currently learning **Application Architecture**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and Tech-related stuff**.
 - 🌎 Website: [dykyi-roman.github.io](https://dykyi-roman.github.io/)
@@ -26,6 +33,8 @@
 
 <div align="center">
 
+<!-- Пункт 6: Единый стиль for-the-badge для всех значков -->
+
 **Languages**<br/>
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
@@ -34,65 +43,65 @@
 
 **🏗 Architecture & Design**
 <p>
-  <img src="https://img.shields.io/badge/-DDD-orange?style=flat-square" alt="DDD" />
-  <img src="https://img.shields.io/badge/-CQRS-blue?style=flat-square" alt="CQRS" />
-  <img src="https://img.shields.io/badge/-Event_Sourcing-lightgrey?style=flat-square" alt="Event Sourcing" />
-  <img src="https://img.shields.io/badge/Microservices-Architecture-blueviolet?style=flat-square" alt="Microservices" />
-  <img src="https://img.shields.io/badge/-Unit_Testing-brightgreen?style=flat-square" alt="Testing" />
+  <img src="https://img.shields.io/badge/-DDD-orange?style=for-the-badge" alt="DDD" />
+  <img src="https://img.shields.io/badge/-CQRS-blue?style=for-the-badge" alt="CQRS" />
+  <img src="https://img.shields.io/badge/-Event_Sourcing-lightgrey?style=for-the-badge" alt="Event Sourcing" />
+  <img src="https://img.shields.io/badge/Microservices-blueviolet?style=for-the-badge" alt="Microservices" />
+  <img src="https://img.shields.io/badge/-Unit_Testing-brightgreen?style=for-the-badge" alt="Testing" />
 </p>
 
 **🧠 System Design & Patterns**
 <p>
-  <img src="https://img.shields.io/badge/-System_Design-FF6B6B?style=flat-square" alt="System Design" />
-  <img src="https://img.shields.io/badge/-Circuit_Breaker-9B59B6?style=flat-square" alt="Circuit Breaker" />
-  <img src="https://img.shields.io/badge/-Saga_Pattern-3498DB?style=flat-square" alt="Saga Pattern" />
-  <img src="https://img.shields.io/badge/-Outbox_Pattern-1ABC9C?style=flat-square" alt="Outbox Pattern" />
-  <img src="https://img.shields.io/badge/-CAP_Theorem-E74C3C?style=flat-square" alt="CAP Theorem" />
+  <img src="https://img.shields.io/badge/-System_Design-FF6B6B?style=for-the-badge" alt="System Design" />
+  <img src="https://img.shields.io/badge/-Circuit_Breaker-9B59B6?style=for-the-badge" alt="Circuit Breaker" />
+  <img src="https://img.shields.io/badge/-Saga_Pattern-3498DB?style=for-the-badge" alt="Saga Pattern" />
+  <img src="https://img.shields.io/badge/-Outbox_Pattern-1ABC9C?style=for-the-badge" alt="Outbox Pattern" />
+  <img src="https://img.shields.io/badge/-CAP_Theorem-E74C3C?style=for-the-badge" alt="CAP Theorem" />
 </p>
 
 **🤖 AI & LLM Integration**
 <p>
-  <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square" alt="LangChain" />
-  <img src="https://img.shields.io/badge/-RAG_Systems-FF9900?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/-Prompt_Engineering-00D4AA?style=flat-square" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/-AI_Agents-7B68EE?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/-OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge" alt="LangChain" />
+  <img src="https://img.shields.io/badge/-RAG_Systems-FF9900?style=for-the-badge" alt="RAG" />
+  <img src="https://img.shields.io/badge/-Prompt_Engineering-00D4AA?style=for-the-badge" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/-AI_Agents-7B68EE?style=for-the-badge" alt="AI Agents" />
 </p>
 
 **📊 Observability & Monitoring**
 <p>
-  <img src="https://img.shields.io/badge/-OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=flat-square&logo=elastic&logoColor=white" alt="ELK" />
-  <img src="https://img.shields.io/badge/-New_Relic-008C99?style=flat-square&logo=newrelic&logoColor=white" alt="New Relic" />
+  <img src="https://img.shields.io/badge/-OpenTelemetry-425CC7?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/-Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" alt="ELK" />
+  <img src="https://img.shields.io/badge/-New_Relic-008C99?style=for-the-badge&logo=newrelic&logoColor=white" alt="New Relic" />
 </p>
 
 **☁️ Infrastructure & Databases**
 <p>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 **🚀 Platform & DevOps**
 <p>
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/-GitOps-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitOps" />
-  <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/-GitOps-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitOps" />
+  <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </p>
 
 **🎯 Leadership & Soft Skills**
 <p>
-  <img src="https://img.shields.io/badge/-Tech_Lead-2C3E50?style=flat-square" alt="Tech Lead" />
-  <img src="https://img.shields.io/badge/-Mentoring-27AE60?style=flat-square" alt="Mentoring" />
-  <img src="https://img.shields.io/badge/-Code_Review-8E44AD?style=flat-square" alt="Code Review" />
-  <img src="https://img.shields.io/badge/-Architecture_Decision_Records-E67E22?style=flat-square" alt="ADR" />
-  <img src="https://img.shields.io/badge/-Technical_Writing-3498DB?style=flat-square" alt="Technical Writing" />
+  <img src="https://img.shields.io/badge/-Tech_Lead-2C3E50?style=for-the-badge" alt="Tech Lead" />
+  <img src="https://img.shields.io/badge/-Mentoring-27AE60?style=for-the-badge" alt="Mentoring" />
+  <img src="https://img.shields.io/badge/-Code_Review-8E44AD?style=for-the-badge" alt="Code Review" />
+  <img src="https://img.shields.io/badge/-ADR-E67E22?style=for-the-badge" alt="ADR" />
+  <img src="https://img.shields.io/badge/-Technical_Writing-3498DB?style=for-the-badge" alt="Technical Writing" />
 </p>
 
 </div>
@@ -101,9 +110,18 @@
 
 ### 📈 GitHub Stats
 
+<!-- Пункт 5: Добавлены fallback alt тексты -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" alt="languages graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=default&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" alt="Roman's GitHub Stats: Active contributor with multiple repositories in PHP, Go, and JavaScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=default&hide=html,css" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages: PHP, Go, JavaScript" />
+  </picture>
 </div>
 
 ---
