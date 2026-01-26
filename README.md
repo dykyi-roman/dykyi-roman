@@ -16,7 +16,7 @@
 - 🔭 I'm a **Software Architect** & web/application developer with focus on PHP and Go.
 - 🧘 I'm currently learning **Application Architecture**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
-- 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and Tech-related stuff**. 
+- 💬 Ask me about **software architecture, system design, and backend development**. 
 - 🌎 Website: [dykyi-roman.github.io](https://dykyi-roman.github.io/)
 
 ### Teaching & Public Activity:
