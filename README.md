@@ -21,7 +21,7 @@
 
 ### Teaching & Public Activity:
 - **PHP Teacher** in [IT school Hillel](https://ithillel.ua/). ([Slides](https://github.com/dykyi-roman/it-school/tree/master/presentation))
-- **Author** on [Medium](https://medium.com/@dykyi.roman), [Habr](https://habr.com/ru/users/dykyi_roman/publications/articles/) & [GitHub Pages](https://dykyi-roman.github.io/articles.html).
+- **Author** on [Medium](https://medium.com/@dykyi.roman), [Habr](https://habr.com/ru/users/dykyi_roman/publications/articles/), [GitHub Pages](https://dykyi-roman.github.io/articles.html).
 - **Published in:**
   - [PHP Digest #202](https://habr.com/ru/articles/555242/)
   - [PHP Annotated (Sept 2023)](https://blog.jetbrains.com/phpstorm/2023/09/php-annotated-september-2023)
