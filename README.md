@@ -48,10 +48,6 @@
   <img src="https://img.shields.io/badge/-Event_Sourcing-lightgrey?style=for-the-badge" alt="Event Sourcing" />
   <img src="https://img.shields.io/badge/Microservices-blueviolet?style=for-the-badge" alt="Microservices" />
   <img src="https://img.shields.io/badge/-Unit_Testing-brightgreen?style=for-the-badge" alt="Testing" />
-</p>
-
-**🧠 System Design & Patterns**
-<p>
   <img src="https://img.shields.io/badge/-System_Design-FF6B6B?style=for-the-badge" alt="System Design" />
   <img src="https://img.shields.io/badge/-Circuit_Breaker-9B59B6?style=for-the-badge" alt="Circuit Breaker" />
   <img src="https://img.shields.io/badge/-Saga_Pattern-3498DB?style=for-the-badge" alt="Saga Pattern" />
