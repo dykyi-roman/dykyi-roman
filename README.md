@@ -5,7 +5,7 @@
   <!-- Пункт 1: Elevator pitch -->
   <p>
     I design and build scalable backend systems using DDD, CQRS, and microservices architecture.<br/>
-    Passionate about clean code, teaching, and sharing knowledge through articles and open-source projects.
+    Passionate about clean architecture and clean code, teaching, and sharing knowledge through articles and open-source projects.
   </p>
 </div>
 
