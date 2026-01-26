@@ -19,7 +19,7 @@
 - 💬 Ask me about **Layer architecture, DDD, ADR, CQRS, and Tech-related stuff**.
 - 🌎 Website: [dykyi-roman.github.io](https://dykyi-roman.github.io/)
 
-### 🥸 Teaching & Public Activity:
+### Teaching & Public Activity:
 - **PHP Teacher** in [IT school Hillel](https://ithillel.ua/). ([Slides](https://github.com/dykyi-roman/it-school/tree/master/presentation))
 - **Author** on [Medium](https://medium.com/@dykyi.roman), [Habr](https://habr.com/ru/users/dykyi_roman/publications/articles/) & [GitHub Pages](https://dykyi-roman.github.io/articles.html).
 - **Published in:**
