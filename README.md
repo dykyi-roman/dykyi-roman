@@ -49,18 +49,9 @@
 
 <!-- Пункт 5: Добавлены fallback alt тексты -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=default&count_private=true" />
-    <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" alt="Roman's GitHub Stats: Active contributor with multiple repositories in PHP, Go, and JavaScript" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=default&hide=html,css" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages: PHP, Go, JavaScript" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages" />
 </div>
-
 ---
 
 ### 🌍 Connect with me
