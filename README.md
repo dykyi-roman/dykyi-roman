@@ -46,9 +46,9 @@
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/dykyi-roman?template=classic&config.timezone=Europe%2FKyiv" alt="GitHub Metrics" width="100%" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=dykyi-roman&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=dykyi-roman&theme=catppuccin_mocha&show_icons=true&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
