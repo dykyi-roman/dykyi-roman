@@ -47,8 +47,7 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" />
+  <img src="https://metrics.lecoq.io/dykyi-roman?template=classic&config.timezone=Europe%2FKyiv" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
