@@ -47,8 +47,8 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical#gh-dark-mode-only" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=default#gh-light-mode-only" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" />
 </div>
 
 ---
