@@ -42,16 +42,15 @@
 | **Infrastructure & DevOps** | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD" /> <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> |
 | **Leadership & Soft Skills** | <img src="https://img.shields.io/badge/-Tech_Lead-2C3E50?style=for-the-badge" alt="Tech Lead" /> <img src="https://img.shields.io/badge/-Mentoring-27AE60?style=for-the-badge" alt="Mentoring" /> <img src="https://img.shields.io/badge/-Code_Review-8E44AD?style=for-the-badge" alt="Code Review" /> <img src="https://img.shields.io/badge/-Technical_Writing-3498DB?style=for-the-badge" alt="Technical Writing" /> |
 
-
 ---
 
 ### 📈 GitHub Stats
 
-<!-- Пункт 5: Добавлены fallback alt тексты -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&layout=compact&theme=radical&hide=html,css" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=radical#gh-dark-mode-only" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dykyi-roman&show_icons=true&theme=default#gh-light-mode-only" height="180" />
 </div>
+
 ---
 
 ### 🌍 Connect with me
