@@ -13,7 +13,7 @@
 
 ### About me:
 
-- 🔭 I'm a **Software Architect** & web/application developer with focus on PHP and Go.
+- 🔭 I'm a **Software Architect** & web/application developer with focus on PHP, Go and JS.
 - 🧘 I'm currently learning **Application Architecture**.
 - 👨‍👧‍👦 I'm always open to collaborating on **Interesting projects**.
 - 💬 Ask me about **software architecture, system design, and backend development**. 
