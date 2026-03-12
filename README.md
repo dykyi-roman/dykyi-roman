@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Roman! 👋</h1>
-  <p><strong>Software Architect • PHP Expert • Educator</strong></p>
+  <p><strong>Software Architect • Expert • Educator</strong></p>
   
   <!-- Пункт 1: Elevator pitch -->
   <p>
