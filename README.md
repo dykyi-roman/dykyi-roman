@@ -48,9 +48,12 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=dykyi-roman&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dykyi-roman&theme=catppuccin_mocha&show_icons=true&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dykyi-roman&theme=catppuccin_mocha&show_icons=true&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/dykyi-roman)
 
 ### 🌍 Connect with me
 
